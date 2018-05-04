@@ -1,6 +1,7 @@
 #Rock Paper Scissors
 
 print("Welcome to the Game: rock paper scissors")
+print("Please input the option in small letters")
 
 player1 = raw_input("Player 1:")    
 while (player1 != "rock" and player1 != "paper" and player1 != "scissors"):
