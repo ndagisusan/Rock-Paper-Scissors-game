@@ -1,3 +1,4 @@
-# Kamilimu-python-assignment
+# Rock Paper Scissors game (rps)
 
-This is a rock paper scissors game (rps)
+This is an assignment for the KamiLimu Mentorship program
+
