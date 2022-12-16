@@ -1,4 +1,4 @@
-#Rock Paper Scissors
+# Rock Paper Scissors
 
 print("Welcome to the Game: rock paper scissors")
 print("Please input the option in small letters")
@@ -30,5 +30,5 @@ elif player1 == "scissors" and player2 == "paper":
 else:
     print("Tie! Everybody wins!")
 
-#exit()
+# exit()
     
